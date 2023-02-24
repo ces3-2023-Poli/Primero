@@ -9,4 +9,8 @@ public class Estudiante {
         return a + b;
     }
 
+    public static int restar(int a, int b){
+        return a - b;
+    }
+
 }
